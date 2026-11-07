@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Ganti domain di sitemap.xml setelah website dipublikasikan
-Sitemap: https://GANTI-DENGAN-DOMAIN-KAMU/sitemap.xml
+Sitemap: https://zuraa4k.github.io/Faiq-Fadlul-Azis/sitemap.xml
