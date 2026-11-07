@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Ganti domain di sitemap.xml setelah website dipublikasikan
+Sitemap: https://GANTI-DENGAN-DOMAIN-KAMU/sitemap.xml
